@@ -1,4 +1,7 @@
 # g5dataops
+
+## O GRUPO NOTA 10
+
 Grupo 5 MBA Fiap - Engenharia de Dados
 
 
