@@ -1,9 +1,6 @@
 # g5dataops
 
-## O GRUPO NOTA 10
-
-Grupo 5 MBA Fiap - Engenharia de Dados
-
+## Grupo 5 MBA Fiap - Engenharia de Dados
 
 + 339199 - BRUNO CAMPOS DE SOUSA
 + 338268 - JOYCE CRISTINA MIYAZATO
